@@ -8,7 +8,7 @@ The final smart contract is deployed on the Sepolia Testnet and the contract add
 
 [Contract Link](https://sepolia.etherscan.io/address/0x39690761170a39832b267ac679a7fe2a30295699#code)
 
-*This is the updated  address and it is different from the one submitted on the Rise-in dashboard (Couldn't edit the address on the dashboard)
+*This is the updated  address and it might be different from the one submitted on the Rise-in dashboard (Had some trouble editing the address on the dashboard)
 
 ## Table of Contents
 
